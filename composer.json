@@ -1,0 +1,12 @@
+{
+    "name": "antho/lab",
+    "authors": [
+        {
+            "name": "SolidNoob",
+            "email": "anthony.cammarata@hotmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.24"
+    }
+}
