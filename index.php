@@ -11,3 +11,4 @@ echo "<hr/>";
 
 echo 'This is the feature02';
 
+require 'feature03.php';
