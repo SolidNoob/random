@@ -1,7 +1,5 @@
 <?php
 
-echo 'Hello World';
+echo 'Hello World<br/>';
 
-echo '<br>';
-
-echo 'This is feature 01<br/>';
+include 'feature01.php';
